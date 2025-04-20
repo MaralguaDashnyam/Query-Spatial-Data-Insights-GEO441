@@ -20,7 +20,7 @@ Florida – Collier, Lee, Sarasota, etc.
 Massachusetts – Barnstable  
 Arizona – Yavapai
 
-![Age Index Map]([https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID_HERE](https://drive.google.com/uc?export=view&id=1sodM_fm2JKpDIeHrVNSEhK0ZRv2K8h2P))
+![Age Index Map]([https://drive.google.com/uc?export=view&id=1sodM_fm2JKpDIeHrVNSEhK0ZRv2K8h2P])
 
 ---
 
@@ -29,7 +29,7 @@ Arizona – Yavapai
 - Mapped **Fertility Class (1–5)** and soil drainage characteristics  
 - Designed clear legends, color schemes, and map elements
 
-![Soil Fertility Map]([https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID_HERE](https://drive.google.com/uc?export=view&id=18qRf2xLnRZ5Je_WeS0ofamHOlG7Qw73M))
+![Soil Fertility Map]([https://drive.google.com/uc?export=view&id=18qRf2xLnRZ5Je_WeS0ofamHOlG7Qw73M])
 
 ---
 
